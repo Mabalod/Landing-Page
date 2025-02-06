@@ -1,3 +1,10 @@
 html{
-    background-color: pink;
+    background-color: white;
+    background-image: url(ustp.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+
 }
+
